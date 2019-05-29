@@ -1,4 +1,4 @@
-package Murodulreviw;
+package MurodulReviw;
 
 import java.util.Arrays;
 

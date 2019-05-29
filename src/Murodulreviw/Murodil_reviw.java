@@ -1,4 +1,4 @@
-package Murodulreviw;
+package MurodulReviw;
 
 public class Murodil_reviw {
 public static void main(String[] args) {

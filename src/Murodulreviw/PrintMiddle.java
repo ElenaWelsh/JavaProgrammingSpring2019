@@ -1,4 +1,4 @@
-package Murodulreviw;
+package MurodulReviw;
 import java.util.*;
 public class PrintMiddle {
 public static void main(String[] args) {

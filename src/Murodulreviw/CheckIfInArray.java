@@ -1,4 +1,4 @@
-package Murodulreviw;
+package MurodulReviw;
 
 public class CheckIfInArray {
 public static void main(String[] args) {

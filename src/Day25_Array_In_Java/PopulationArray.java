@@ -1,4 +1,4 @@
-package Day25_Array_In_Java;
+package day25_Array_In_Java;
 
 public class PopulationArray {
 public static void main(String[] args) {

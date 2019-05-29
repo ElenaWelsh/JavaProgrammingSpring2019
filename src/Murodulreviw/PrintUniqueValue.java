@@ -1,4 +1,4 @@
-package Murodulreviw;
+package MurodulReviw;
 
 public class PrintUniqueValue {
 	public static void main(String[] args) {

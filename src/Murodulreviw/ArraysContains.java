@@ -1,4 +1,4 @@
-package Murodulreviw;
+package MurodulReviw;
 
 public class ArraysContains {
 	public static void main(String[] args) {
